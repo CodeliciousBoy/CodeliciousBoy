@@ -1,5 +1,6 @@
-## Oi meu nome é André e eu gosto de programação 👯
-
+<div>
+  <h1 align="center">Oi meu nome é André e eu gosto de programação 👯</h1>
+</div>
 
 
 [![CodeliciousBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeliciousBoy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
@@ -7,7 +8,6 @@
 
 - 🤓 Atualmente faço faculdade de Sistemas de Informação!!
 - 🌱 Estudando de tudo um pouco: Front-end, Back-end, Banco de Dados e mais...
-- 😄 Pronomes: ele/dele
 
 ##
 
