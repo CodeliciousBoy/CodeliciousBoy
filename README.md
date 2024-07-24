@@ -1,6 +1,7 @@
-## Hi there 👋
+## Oi meu nome é André e eu gosto de programação 👯
 
 [![CodeliciousBoy GitHub stats](https://github-readme-stats.vercel.app/api?username=CodeliciousBoy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeliciousBoy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 Here are some ideas to get you started:
 
