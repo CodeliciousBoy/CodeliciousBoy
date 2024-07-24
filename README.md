@@ -17,7 +17,7 @@
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="right" alt="gif sorriso" src="https://i.ibb.co/Kqz9Zws/8y1h8u.gif">
+  <img align="right" width="200" alt="gif sorriso" src="https://cdn.picrew.me/shareImg/org/202407/1689727_jXupnRlm.png">
 </div>
 
 ##
