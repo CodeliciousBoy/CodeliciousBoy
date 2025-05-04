@@ -2,7 +2,7 @@
   <h2 align="left">Meu nome é André e eu gosto de programação</h2>
 </div>
 
-- Sistemas de Informação no IFNMG - Campus Pirapora.
+- Cursando Sistemas de Informação (IFNMG - Campus Pirapora).
 
 - Focado em desenvolvimento Backend, Java, Springboot e afins.
 
