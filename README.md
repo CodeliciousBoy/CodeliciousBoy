@@ -1,11 +1,10 @@
 <div>
-  <h2 align="left">Oi meu nome é André e eu gosto de programação (as vezes)</h2>
+  <h2 align="left">Meu nome é André e eu gosto de programação</h2>
 </div>
 
-- 🤓 Faço faculdade de Sistemas de Informação no IFNMG - Campus Pirapora.
-- 🚀 Entusiasta de tecnologia, atualmente explorando Java e aprimorando conhecimentos em essenciais para backend como Docker, Postman e afins.
-- 🎯 Buscando sempre aprender algo novo e construir projetos interessantes.
-- 🌱 Em busca da primeira oportunidade!
+Sistemas de Informação no IFNMG - Campus Pirapora.
+
+Focado em desenvolvimetno Backend, Java, Springboot e afins.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodeliciousBoy&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
